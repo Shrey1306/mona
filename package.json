@@ -1,0 +1,48 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.1",
+    "@react-three/drei": "^9.114.0",
+    "@react-three/fiber": "^8.17.8",
+    "@techstark/opencv-js": "^4.10.0-release.1",
+    "crypto-browserify": "^3.12.0",
+    "is-date-object": "^1.0.5",
+    "lodash": "^4.17.21",
+    "path-browserify": "^1.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "stream-browserify": "^3.0.0",
+    "three": "^0.169.0",
+    "three-mesh-bvh": "^0.8.0",
+    "webpack": "^5.95.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1",
+    "vm-browserify": "^1.1.2",
+    "worker-loader": "^3.0.8",
+    "workerize-loader": "^2.0.2"
+  }
+}
