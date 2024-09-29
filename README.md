@@ -65,9 +65,12 @@ By combining these tools, Noma captures real-time events and generates accurate 
 
 - **Instant Splat** for real-time 3D visualization
 - **AWS Transcribe** for real-time transcription and speaker diarization
-- **LITA (Language-Image Transformer Agent)** for action transcription
+- **LITA (Nvidia Labs) (Language-Image Transformer Agent (VLM))** for action transcription
 - **Neo4j & GraphRAG** for real-time knowledge graph management
 - **Meditron 7B** for medical transcription and documentation
+- **Three.js** for 3d modelling
+- **React/JS/Python** Languages
+  
 
 ## Contributors
 
