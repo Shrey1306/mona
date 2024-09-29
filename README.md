@@ -74,8 +74,9 @@ By combining these tools, Noma captures real-time events and generates accurate 
 
 ## Contributors
 
-- **Shrey Gupta** – Lead Developer, Architect
-- [Other Contributors]
+- **Shrey Gupta** – @Shrey1306
+- **Siddhant Agarwal** - @sid0402
+- **Abhishek Pillai** – @abhipi
 
 ## License
 
