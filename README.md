@@ -4,7 +4,7 @@
 ## 3D Visualisation of a Gaussian Mesh Point Cloud rendering using static 2D image autocaptured from a livestream (testing folder)
 ![](assets/3D_Mesh.png)
 
-## [Real time Mesh to 2D Annotation Capture using Raycaster (testing folder)
+## Real time Mesh to 2D Annotation Capture using Raycaster (testing folder)
 ![](assets/Real_time_Mesh_to_2D_Annotation_Capture.png)
 
 
