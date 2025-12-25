@@ -25,6 +25,13 @@ build/
 *.mp4
 *.wav
 
+# Generated data (GraphRAG cache)
+data/mohs/kv_store_*.json
+data/mohs/vdb_*.json
+
+# Generated transcripts
+presentation/transcript_*.html
+
 # Temp files
 extracted_audio.wav
 dermatologists_mohs_surgeons_charts.png
