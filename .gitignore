@@ -1,2 +1,30 @@
+# Dependencies
 node_modules/
 lib/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Data/Media (large files)
+*.mp4
+*.wav
+
+# Temp files
+extracted_audio.wav
+dermatologists_mohs_surgeons_charts.png
