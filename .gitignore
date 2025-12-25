@@ -31,6 +31,7 @@ data/mohs/vdb_*.json
 
 # Generated transcripts
 presentation/transcript_*.html
+transcripts/
 
 # Temp files
 extracted_audio.wav
